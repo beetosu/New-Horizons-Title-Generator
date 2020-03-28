@@ -7,4 +7,4 @@ Basically 2 different files:
 
 
 
-In total it is about 28724 titles, meaning it will just under 1200 days (or 3 1/4 years) to finish running through everything.
+In total it is about 28724 titles, meaning it will take just under 1200 days (or 3 1/4 years) to finish running through everything.
