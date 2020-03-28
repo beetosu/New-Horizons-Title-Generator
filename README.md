@@ -1,6 +1,8 @@
 # New Horizons Title Generator
 A twitter bot that generates all possible passport titles for the game "Animal Crossing: New Horizons" every hour
 
+It will be live shortly on @nh_titles
+
 Basically 2 different files:
 * create_list.py: takes the left and right titles (compiled in left.txt and right.txt respectively) to create all possible combinations (titles.json)
 * tweet_title.py: tweets an entry from titles.json, removes said entry, and places it in outbox.json
